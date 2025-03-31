@@ -1,9 +1,9 @@
 ## Made by Salscodess
 ## https://salsoftware.online/
 ---
-# Updates:
-<br/> Adding more files soon!
-<br/>Adding more packages and firmwares for direct downloads
+# Updates
+Adding more files soon!
+Adding more packages and firmwares for direct downloads
 ---
 ## Databases & Dumps
 - [`UberGuidoZ Playground` Large collection of files, documentation, and dumps of all kinds.](https://github.com/UberGuidoZ/Flipper)
