@@ -4,7 +4,6 @@
 # Updates
 Adding more files soon!
 Adding more packages and firmwares for direct downloads
----
 ## Databases & Dumps
 - [`UberGuidoZ Playground` Large collection of files, documentation, and dumps of all kinds.](https://github.com/UberGuidoZ/Flipper)
 - [`Flipper-IRDB` Many IR dumps for various appliances.](https://github.com/logickworkshop/Flipper-IRDB)
